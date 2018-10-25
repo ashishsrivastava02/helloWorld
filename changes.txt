@@ -1,6 +1,8 @@
+Previous_commit.txt
 Previous_commit.txt.old
 bin/.gitkeep
 bin/helloWorld-1.0-SNAPSHOT.jar
+changes.txt
 changes.txt.old
 target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
 target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
