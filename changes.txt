@@ -1,2 +1,8 @@
 bin/.gitkeep
+bin/helloWorld-1.0-SNAPSHOT.jar
+changes.txt
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
 target/rough/asdf
+target/surefire-reports/TEST-com.companyname.bank.AppTest.xml
+target/surefire-reports/com.companyname.bank.AppTest.txt
